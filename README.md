@@ -1,1 +1,1 @@
-### Personal Collections of various dotfiles
+### Personal configuration of various dotfiles
